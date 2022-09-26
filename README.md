@@ -10,3 +10,6 @@ Press down arrow to move down tetromino faster.
 Press up arrow to rotate tetromino.
 
 You get score when you make a horizental line and it will disappear at the same time.
+
+## Start Now!!
+https://joy-yin.github.io/tetris/
